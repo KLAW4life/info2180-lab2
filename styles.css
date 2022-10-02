@@ -15,3 +15,13 @@ body{
     align-items: center;
     flex-direction: column; /* Aligned items one after the other */
 }
+
+header{
+    background-color: #63B3ED;
+    color: #FFFFFF;
+}
+
+header h1{
+    font-size: 36px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
