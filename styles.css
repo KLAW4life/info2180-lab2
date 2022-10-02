@@ -34,3 +34,26 @@ article h2{
 article h5{
     color: #718096;
 }
+
+#About{
+    color: #000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #E2E8F0;
+    padding: 15px;
+}
+
+#SocialMedia {
+    color: #48BB78;
+}
+
+#SocialMedia a{
+    color: #4299E1;
+}
+
+#Archives {
+    color: #48BB78;
+}
+
+#Archives a{
+    color: #4299E1;
+}
