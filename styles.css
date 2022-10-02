@@ -25,3 +25,12 @@ header h1{
     font-size: 36px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+article h2{
+    font-size: 32px;
+    color: #48BB78;
+}
+
+article h5{
+    color: #718096;
+}
